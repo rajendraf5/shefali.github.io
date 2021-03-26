@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'https://github.com/rajendraf5/shefali.github.io'),
+    'url' => env('APP_URL', 'https://github.com/rajendraf5/shefali.github.io/blob/main'),
 
     'asset_url' => env('ASSET_URL', 'https://github.com/rajendraf5/shefali.github.io/tree/main/resources/views'),
 
