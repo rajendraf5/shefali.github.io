@@ -52,9 +52,9 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'https://rajendraf5.github.io/shefali.github.io'),
 
-    'asset_url' => env('ASSET_URL', 'http://localhost/laravelshefhali/resources/views'),
+    'asset_url' => env('ASSET_URL', 'https://rajendraf5.github.io/shefali.github.io/resources/views'),
 
     /*
     |--------------------------------------------------------------------------
