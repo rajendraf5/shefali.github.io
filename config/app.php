@@ -52,9 +52,9 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'https://shefaliinteriors.herokuapp.com'),
+    'url' => env('APP_URL', 'https://github.com/rajendraf5/shefali.github.io'),
 
-    'asset_url' => env('ASSET_URL', 'https://shefaliinteriors.herokuapp.com/resources/views'),
+    'asset_url' => env('ASSET_URL', 'https://github.com/rajendraf5/shefali.github.io/tree/main/resources/views'),
 
     /*
     |--------------------------------------------------------------------------
